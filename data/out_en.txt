@@ -1,0 +1,11 @@
+Running Tesseract
+
+Tesseract is a command—line program, so ﬁrst open a terminal or command prompt. The command
+is used like this:
+
+tesseract imagename outputbase [—1 lang] [—psm pagesegmode] [configfile...]
+
+So basic usage to do OCR on an image called 'myscan.png‘ and save the result to 'out.txt' would be:
+
+tesseract myscan.png out
+

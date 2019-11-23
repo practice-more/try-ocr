@@ -1,0 +1,18 @@
+解决万法 :
+
+一盲上面的晶于丶就是珞侵育问题 ′ wi"dowS路径是暇g
+解决办法′胁盯臼SDATA一PRE ， 辜 ' ′蹋置为安装目录下蒯e删咖目录
+如:E:\s【udy一thware\TesseraC【一oCR\tessdata (注意是不需要加' ; '结尾的)
+
+ 
+
+mammary ′ 谴了坏境变曼可苜懦要重启下才生效
+最快邂g截翼万涛罡 ′ 命令「`
+
+ 
+
+测试
+
+1 SET TESsD八T^一PREFIX口E:\st‖dy一s0ftˇare\Tesse「aCt一D〔R\tessdata
+2 tesseract 12…-p‖g 123-txt
+
